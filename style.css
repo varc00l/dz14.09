@@ -1,0 +1,17 @@
+body {
+    background: rgb(117,191,191);
+    background: linear-gradient(229deg, rgba(117,191,191,1) 19%, rgba(255,0,128,1) 49%, rgba(170,62,62,1) 75%);
+}
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+.icon-youtube2 {
+    width: 2.5087890625em;
+}
+
